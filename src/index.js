@@ -6,4 +6,5 @@ import Game from './Game';
 
 ReactDOM.render(
   <Game />, 
-  document.querySelector('#root'));
+  document.querySelector('#root')
+);
