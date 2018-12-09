@@ -8,10 +8,10 @@ ul {
   padding-left: 30px;
 }
 
-.errors {
-  background: #c00;
+#errors {
+  background-color: #c00;
   color: #fff;
-  display: none;
+  /* display: none; */
   margin: -20px -20px 20px;
   padding: 20px;
   white-space: pre-wrap;
